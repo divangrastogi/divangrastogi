@@ -1,161 +1,260 @@
-# DIVANG RASTOGI
-**Senior WordPress & PHP Developer**
+# 👋 Hey, I'm Divang Rastogi
+**Senior WordPress & PHP Developer** | WooCommerce Specialist | BuddyPress/BuddyBoss Expert | LearnDash Integration Architect
 
-📞 +91 8601991598 | ✉️ divangrastogi@gmail.com | 📍 Lucknow, Uttar Pradesh, India | 💻 github.com/divangrastogi
-
----
-
-## PROFESSIONAL SUMMARY
-
-Results-driven WordPress Developer with 4.5+ years of specialized experience architecting scalable, high-performance web solutions. Demonstrated expertise in full-stack WordPress development, custom plugin engineering, and WooCommerce ecosystem optimization. Deep specialization in WooCommerce-BuddyPress/BuddyBoss integrations and LearnDash LMS customizations. Proven track record of delivering enterprise-grade platforms with emphasis on code quality, security standards (WPCS/PHPCS), and modern development workflows. Proficient in leveraging AI-assisted development tools and implementing advanced WordPress features including Gutenberg blocks, webhooks, and scheduled automation. Contributed to 30+ production plugins with 100,000+ combined active installations.
+Crafting scalable WordPress solutions and building seamless integrations between community platforms, e-commerce, and e-learning systems since 2019.
 
 ---
 
-## CORE COMPETENCIES
+## 🚀 Current Focus: Enterprise WordPress Development
 
-### Technical Stack
-PHP • Laravel • MySQL • JavaScript • jQuery • HTML5 • CSS3 • REST API • AJAX
+I'm currently specializing in complex WordPress ecosystems, with a focus on:
 
-### Specialized Expertise
-**WooCommerce** • **BuddyPress** • **BuddyBoss** • **LearnDash**
+🛒 **WooCommerce Deep Integrations** — Building advanced marketplace solutions and custom e-commerce features  
+🤝 **BuddyPress/BuddyBoss Platforms** — Creating social networking and community-driven experiences  
+📚 **LearnDash LMS Systems** — Architecting sophisticated e-learning platforms with commerce integration  
+🤖 **AI-Assisted Development** — Leveraging Claude Code, Windsurf, and MCP servers for 40% faster development  
+⚡ **Performance Optimization** — Achieving 90+ PageSpeed scores through advanced caching and code efficiency  
+✅ **Code Quality Standards** — Implementing WPCS/PHPCS across all projects for enterprise-grade reliability
 
-### Development Tools & Practices
-Git • Postman • cPanel • WPCS/PHPCS • AI Tools (Windsurf, Claude Code, MCP Servers) • Code Review • Webhooks • Gutenberg Blocks
-
-### WordPress Ecosystem Understanding
-ACF • Gutenberg • Dokan • WCFM • WC Vendors • Tutor LMS • Sensei • LifterLMS • Event Calendar • GeoDirectory • Business Directory • wpForo
-
----
-
-## PROFESSIONAL EXPERIENCE
-
-### Senior Web Developer
-**Wbcom Designs Pvt. Ltd.** | Aug 2024 – Present
-
-- Contributed to 30+ free and premium WordPress plugins, maintaining comprehensive product ecosystem with 100,000+ active installations globally
-- Specialized in WooCommerce-BuddyPress/BuddyBoss integrations and LearnDash LMS customizations, creating seamless e-learning and community commerce experiences
-- Architected and deployed custom BuddyPress/BuddyBoss plugins (Anonymous Activity, BuddyLists, Profile Widgets) serving 10,000+ active users with zero critical bugs post-launch
-- Engineered advanced WooCommerce addons including custom checkout optimizations, product bundles, and subscription management features
-- Maintained and enhanced LearnDash LMS integrations with WooCommerce, BuddyPress, and third-party payment systems, implementing 50+ feature requests
-- Developed sophisticated wpForo forum extensions enhancing community engagement through custom gamification and social features
-- Mastered WordPress and PHP coding standards (WPCS/PHPCS), implementing automated code quality checks across all projects
-- Pioneered implementation of AI-assisted development workflows using Windsurf, Claude Code, and MCP servers, increasing productivity by 40%
-- Developed custom Gutenberg blocks, webhook integrations, and scheduler actions for enterprise-scale automation solutions
-- Optimized large-scale website performance through advanced caching strategies, database optimization, and efficient code architecture
-
-### WordPress Developer
-**Huptechweb Pvt. Ltd.** | Oct 2021 – Nov 2023
-
-- Delivered 25+ production-ready WordPress websites across diverse industries including e-commerce, healthcare, and corporate sectors
-- Created pixel-perfect custom themes and plugins aligned with client branding and functional requirements
-- Implemented performance optimization techniques achieving 90+ PageSpeed scores and sub-2-second load times
-- Integrated multiple third-party APIs including payment gateways, CRM systems, and marketing automation tools
-
-### Plugin Developer
-**RTW Technologies Pvt. Ltd.** | Nov 2019 – Jun 2021
-
-- Core developer for Mercado marketplace plugin suite (Free, Pro, and Enterprise versions) with 5,000+ active installations
-- Architected multi-vendor marketplace functionality including vendor dashboards, commission systems, and order management workflows
-- Developed WooCommerce Return, Refund & Replace plugin with comprehensive order management and customer support features
-- Implemented complex AJAX-driven interfaces for real-time vendor analytics, product management, and financial reporting
-- Collaborated with QA and support teams to deliver enterprise-grade plugins meeting WordPress.org and CodeCanyon marketplace standards
+**Why this matters:** Modern WordPress development requires more than just building features—it's about creating scalable, maintainable systems that can grow with business needs. I combine deep technical expertise with modern AI workflows to deliver solutions that stand the test of time.
 
 ---
 
-## FEATURED PROJECTS
+## 💼 Professional Journey & Track Record
 
-### Online Texas LTC – E-Learning Platform
-**Developer** | LearnDash, WooCommerce, Uncanny Automator
+### Senior Web Developer @ Wbcom Designs (Aug 2024 – Present)
+Contributing to one of WordPress's leading plugin ecosystems, specializing in community and e-learning platforms.
 
-Engineered sophisticated LearnDash-WooCommerce integration for Texas License to Carry certification courses. Implemented custom coupon selling system with Uncanny Automator workflows, enabling automated course enrollment, certificate generation, and payment processing for state-regulated training programs.
+**📈 Impact:**
+- 🎯 **30+ Plugins** — Actively maintaining and contributing to free and premium WordPress plugins
+- 👥 **100,000+ Active Installations** — Combined reach across all contributed plugins
+- 🔧 **Zero Critical Bugs** — Post-launch success rate on major plugin releases
+- ⚡ **40% Productivity Increase** — Through AI-assisted development workflows
+- 🏆 **50+ Feature Implementations** — Successfully delivered in LearnDash and WooCommerce integrations
 
-🔗 https://onlinetexasltc.com/
+**🎯 Core Responsibilities:**
+- **WooCommerce-BuddyPress/BuddyBoss Integration Specialist** — Creating seamless bridges between e-commerce and social platforms
+- **LearnDash Architecture** — Building custom LMS integrations with payment systems and community features
+- **Custom Plugin Development** — Anonymous Activity, BuddyLists, Profile Widgets, and more
+- **wpForo Extensions** — Enhancing forum engagement with gamification and social features
+- **Code Quality Leadership** — Implementing WPCS/PHPCS standards and automated quality checks
+- **AI Workflow Innovation** — Pioneering Claude Code, Windsurf, and MCP server usage for WordPress development
 
-### Mercado Marketplace Suite
-**Core Developer** | Multi-Vendor Platform, WooCommerce
+### WordPress Developer @ Huptechweb Pvt. Ltd. (Oct 2021 – Nov 2023)
+Full-stack WordPress development across diverse industries.
 
-Developed comprehensive marketplace ecosystem including Mercado (Free), Mercado Pro, and Mercado Enterprise. Features include vendor management, commission structures, product catalogs, order routing, and financial reporting. Serves 5,000+ active installations with enterprise-grade scalability.
+**📊 Achievements:**
+- ✅ **25+ Production Websites** — E-commerce, healthcare, corporate, and more
+- 🚀 **90+ PageSpeed Scores** — Consistent performance optimization across all projects
+- ⏱️ **Sub-2-Second Load Times** — Through advanced caching and optimization techniques
+- 🔌 **Multiple API Integrations** — Payment gateways, CRM systems, marketing automation
 
-🔗 Free Version: https://wordpress.org/plugins/mercado/
-🔗 Pro Version: https://codecanyon.net/item/mercado-pro-turn-your-woocommerce-into-multi-vendor-marketplace/28986182
-🔗 Enterprise: https://redefiningtheweb.com/product/mercado-best-woocommerce-multi-vendor-marketplace-solution/
+### Plugin Developer @ RTW Technologies (Nov 2019 – Jun 2021)
+Foundation in WordPress marketplace plugin development.
 
-### WooCommerce Return, Refund & Replace Plugin
-**Developer** | Order Management, Customer Support Automation
-
-Built comprehensive returns management system with automated workflows for refunds, replacements, and exchanges. Integrated with WooCommerce order system, email notifications, and vendor dashboards for seamless customer support operations.
-
-### MiDoctorUSA – Healthcare Platform
-**Developer** | HIPAA Compliance, Video Integration, PHP
-
-Developed HIPAA-compliant telemedicine platform with encrypted patient management, video conferencing integration, and secure prescription handling. Implemented role-based access control for healthcare providers.
-
-🔗 https://midoctorusa.com/en/
-
-### La Marquise Jewellery – Luxury E-commerce
-**Developer** | WooCommerce, Payment Gateway Integration
-
-Crafted premium shopping experience with custom product configurator, high-resolution image galleries, and seamless multi-currency checkout process with international payment gateway integration.
-
-🔗 https://www.lamarquisejewellery.com/
-
-### Alma Laky – Arabic E-commerce Platform
-**Developer** | RTL Development, Regional Payment Systems
-
-Built fully localized Arabic RTL e-commerce platform with regional payment gateway integrations, custom shipping solutions, and culturally adapted user experience design.
-
-🔗 https://www.almalaky.com/
-
-### Wbcom Designs Plugin Ecosystem
-**Developer** | BuddyPress, BuddyBoss, LearnDash, WooCommerce
-
-Contributed to 30+ free and premium plugins across BuddyPress/BuddyBoss ecosystem, LearnDash LMS integrations, WooCommerce extensions, and wpForo community addons. Specializing in WooCommerce-BuddyPress integrations and LearnDash customizations with 100,000+ combined active installations.
+**🏆 Signature Work:**
+- 🛒 **Mercado Marketplace Suite** — Free, Pro, and Enterprise versions with 5,000+ installations
+- 🔄 **WooCommerce Returns Plugin** — Comprehensive order management system
+- 💰 **Commission Systems** — Complex multi-vendor payment and routing architecture
+- 📊 **Real-time Analytics** — AJAX-driven vendor dashboards and reporting
 
 ---
 
-## TECHNICAL EXPERTISE
+## 🌟 Featured Projects & Portfolio
 
-### Backend Development
-- Advanced PHP 7.4+ & Laravel framework architecture
-- Complex MySQL query optimization & database design
-- RESTful API development & third-party integrations
-- WordPress core & plugin architecture mastery
+### 🎓 Online Texas LTC – E-Learning Platform
+**LearnDash | WooCommerce | Uncanny Automator**
 
-### Frontend Development
-- Modern JavaScript (ES6+), jQuery, AJAX
-- HTML5 & CSS3 for responsive interfaces
-- Gutenberg block development & custom editors
-- Cross-browser compatibility & accessibility (WCAG)
+Engineered sophisticated LearnDash-WooCommerce integration for Texas License to Carry certification courses. Implemented custom coupon selling system with automated enrollment and certificate generation for state-regulated training.
 
-### Development Workflow
-- Git version control & collaborative workflows
-- WPCS/PHPCS code quality enforcement
-- AI-assisted development (Claude Code, Windsurf, MCP Servers)
-- Automated testing & continuous integration
-- Prompt engineering for development optimization
-
-### Performance & Security
-- Advanced caching strategies & CDN integration
-- Security best practices & vulnerability assessment
-- Page speed optimization & Core Web Vitals
-- SEO implementation & structured data markup
+🔗 [onlinetexasltc.com](https://onlinetexasltc.com/)
 
 ---
 
-## ADDITIONAL INFORMATION
+### 🛒 Mercado Marketplace Suite
+**Multi-Vendor Platform | WooCommerce Core Developer**
 
-**Date of Birth:** 31st May 1997  
-**Languages:** English (Professional), Hindi (Native)  
-**Location:** Lucknow, Uttar Pradesh, India  
-**Availability:** Immediate
+Built comprehensive marketplace ecosystem powering 5,000+ active installations. Features include vendor dashboards, commission structures, product catalogs, order routing, and financial reporting.
+
+**Versions:**
+- 🆓 [Mercado Free](https://wordpress.org/plugins/mercado/) — WordPress.org
+- 💎 [Mercado Pro](https://codecanyon.net/item/mercado-pro-turn-your-woocommerce-into-multi-vendor-marketplace/28986182) — CodeCanyon
+- 🏢 [Mercado Enterprise](https://redefiningtheweb.com/product/mercado-best-woocommerce-multi-vendor-marketplace-solution/) — Full-featured solution
 
 ---
 
-## DECLARATION
+### 🔄 WooCommerce Return, Refund & Replace
+**Order Management | Customer Support Automation**
 
-I hereby declare that all the information mentioned above is true to the best of my knowledge.
+Comprehensive returns management system with automated workflows for refunds, replacements, and exchanges. Integrated with WooCommerce order system and vendor dashboards.
 
-**Place:** Lucknow  
-**Date:** October 28, 2025
+---
 
-**(Divang Rastogi)**
+### 🏥 MiDoctorUSA – Healthcare Platform
+**HIPAA Compliance | Telemedicine | Video Integration**
+
+Developed HIPAA-compliant telemedicine platform with encrypted patient management, video conferencing, and secure prescription handling with role-based access control.
+
+🔗 [midoctorusa.com](https://midoctorusa.com/en/)
+
+---
+
+### 💎 La Marquise Jewellery
+**Luxury E-commerce | International Payments**
+
+Premium shopping experience with custom product configurators, high-resolution galleries, and multi-currency checkout with international payment gateway integration.
+
+🔗 [lamarquisejewellery.com](https://www.lamarquisejewellery.com/)
+
+---
+
+### 🌙 Alma Laky – Arabic E-commerce
+**RTL Development | Regional Payment Systems**
+
+Fully localized Arabic RTL e-commerce platform with regional payment gateways, custom shipping solutions, and culturally adapted UX design.
+
+🔗 [almalaky.com](https://www.almalaky.com/)
+
+---
+
+### 🔌 Wbcom Designs Plugin Ecosystem
+**30+ Plugins | 100,000+ Installations**
+
+Active contributor to comprehensive plugin suite including BuddyPress/BuddyBoss addons, LearnDash integrations, WooCommerce extensions, and wpForo community features.
+
+**Specialized Plugins:**
+- 🤫 Anonymous Activity for BuddyPress
+- 📋 BuddyLists for community organization
+- 👤 Profile Widgets and customizations
+- 🛒 WooCommerce-BuddyPress bridges
+- 📚 LearnDash-WooCommerce integrations
+- 💬 wpForo gamification extensions
+
+---
+
+## 🛠️ Technical Arsenal
+
+### **Core Expertise**
+```
+🔹 WooCommerce      🔹 BuddyPress       🔹 BuddyBoss        🔹 LearnDash
+```
+
+### **Languages & Frameworks**
+```php
+PHP 7.4+ | Laravel | MySQL | JavaScript (ES6+) | jQuery | AJAX | HTML5 | CSS3
+```
+
+### **WordPress Ecosystem**
+```
+ACF | Gutenberg Blocks | Dokan | WCFM | WC Vendors | Tutor LMS | Sensei
+LifterLMS | Event Calendar | GeoDirectory | Business Directory | wpForo
+```
+
+### **Development Tools**
+```bash
+Git | Postman | cPanel | WPCS/PHPCS | Webhooks | REST API
+```
+
+### **AI-Powered Development**
+```
+🤖 Claude Code | Windsurf | MCP Servers | Prompt Engineering
+```
+
+### **Performance & Optimization**
+```
+Advanced Caching | CDN Integration | Database Optimization
+PageSpeed 90+ | Core Web Vitals | SEO Best Practices
+```
+
+### **Security & Standards**
+```
+WPCS/PHPCS Compliance | Vulnerability Assessment | Code Review
+WCAG Accessibility | HIPAA Compliance (Healthcare Projects)
+```
+
+---
+
+## 💡 Development Philosophy
+
+### On Code Quality
+> "Enterprise-grade code isn't just about functionality—it's about maintainability, scalability, and readability. Every line should make sense to the developer six months from now."
+
+### On AI in Development
+> "AI tools like Claude Code and Windsurf aren't replacing developers—they're amplifying what we can achieve. I've increased my productivity by 40% while maintaining code quality standards."
+
+### On WordPress Integrations
+> "The real magic happens at the intersection of platforms. WooCommerce + BuddyPress + LearnDash isn't just three plugins—it's a complete business ecosystem when architected correctly."
+
+### On Performance
+> "A beautiful website that loads in 5 seconds is a failure. Performance isn't optional—it's the foundation of user experience and SEO success."
+
+---
+
+## 📊 Stats & Achievements
+
+```
+📦 30+ Active Plugin Contributions
+👥 100,000+ Combined Active Installations
+⭐ 5,000+ Mercado Suite Installations
+🐛 Zero Critical Bugs Post-Launch
+🚀 90+ Average PageSpeed Score
+⚡ 40% Productivity Increase via AI Tools
+📈 50+ Feature Implementations
+🎯 25+ Production Websites Delivered
+```
+
+---
+
+## 🎯 Current Learning & Exploration
+
+I'm constantly evolving my skillset:
+
+🤖 **AI-Assisted Development** — Mastering Claude Code, Windsurf, MCP servers  
+🏗️ **Enterprise Architecture** — Scaling WordPress for high-traffic applications  
+🔐 **Advanced Security** — Zero-trust architecture and vulnerability prevention  
+⚡ **Performance Engineering** — Sub-second load times and Core Web Vitals mastery  
+📚 **Technical Writing** — Documenting complex integrations and workflows  
+🧪 **Automated Testing** — PHP Unit, Jest, and AI-powered QA systems
+
+---
+
+## 🤝 Let's Collaborate!
+
+I'm always interested in:
+
+💼 **Complex WordPress Projects** — Multi-platform integrations and custom solutions  
+🤖 **AI-Enhanced Development** — Experimenting with cutting-edge tools and workflows  
+🎓 **Mentorship** — Helping developers level up their WordPress skills  
+🔧 **Plugin Development** — Building tools that solve real business problems  
+🌟 **Open Source** — Contributing to WordPress and community projects
+
+---
+
+## 📫 Connect With Me
+
+💼 **LinkedIn:** [linkedin.com/in/divangrastogi](https://linkedin.com/in/divangrastogi)  
+💻 **GitHub:** [github.com/divangrastogi](https://github.com/divangrastogi)  
+✉️ **Email:** divangrastogi@gmail.com  
+📞 **Phone:** +91 8601991598  
+📍 **Location:** Lucknow, Uttar Pradesh, India
+
+---
+
+## 💬 Current Availability
+
+✅ **Open to:**
+- 🚀 Freelance projects (WooCommerce, BuddyPress, LearnDash specializations)
+- 🤝 Remote full-time opportunities
+- 💡 Consulting on WordPress architecture and integrations
+- 🎓 Technical mentorship and code reviews
+
+📌 **Availability Status:** Immediate
+
+---
+
+### ⚡ Fun Fact
+I've contributed to plugins used by over 100,000 websites worldwide, and I'm just getting started! 🚀
+
+---
+
+*"Building WordPress solutions that scale, perform, and make a difference."*
